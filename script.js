@@ -28,3 +28,4 @@ document.getElementById('reservationForm').addEventListener('submit', function (
     // Optional: Clear the form
     document.getElementById('reservationForm').reset();
 });
+// Collaborate
